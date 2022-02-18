@@ -1,0 +1,39 @@
+.background
+{
+   background-image: url("https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dG9kb3xlbnwwfHwwfHw%3D&w=1000&q=80");
+   width: 100%;
+   height: 100vh;
+   padding-top: 30px;
+   background-repeat: no-repeat;
+   background-size:cover;
+}
+.btn{
+    border-radius: 4px;
+    width:80px;
+    height: 40px;
+    background-color: bisque;
+    border:none;
+    margin-left: 10px;
+}
+.margin{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.in
+{
+    height: 35px;
+}
+.btnT
+{
+    width: 100px;
+    height: 30px;
+    background-color: cadetblue;
+    color:aliceblue;
+    border:none;
+    margin:3px;
+}
+.inT
+{
+    width:100px;
+    height: 24px;
+}
